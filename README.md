@@ -46,8 +46,8 @@
 
 - Ruby MRI 2.5+
 - Ruby On Rails > 5.0
-- ActiveRecord for models
-- Docker, docker-compose
+- ActiveRecord
+- Docker
 
 На выходе должен получиться проект на [Github.com](http://github.com/) с инструкцией по запуску. Приложение должно запускаться в Docker
 
